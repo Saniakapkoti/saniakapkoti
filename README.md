@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sania Kapkoti</h1>
-<h3 align="center">I'm a 2nd-year engineering student with a passion for web and app development. I'm constantly exploring new technologies and frameworks to expand my skillset and create innovative solutions.</h3>
+<h3 align="center">I'm a 3rd-year engineering student with a passion for web and app development. I'm constantly exploring new technologies and frameworks to expand my skillset and create innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saniakapkoti&label=Profile%20views&color=0e75b6&style=flat" alt="Saniakapkoti" /> </p>
 
